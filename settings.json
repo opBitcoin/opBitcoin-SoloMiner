@@ -1,0 +1,7 @@
+[{
+    "WALLET_ADDRESS": "wallet_address_here",
+    "PRIVATE_KEY" : "wallet_private_key_here",
+    "CONTRACT_ADDRESS" : "0x1c002F1740659e7879775cA3C7899c9a04AC3d15",
+    "RPC_URL" : "https://kovan.optimism.io"
+}]
+
