@@ -4,13 +4,13 @@ A solo miner written in python to solve the Sha3 challenge on the opBitcoin cont
 How to Mine
 ----
 
-***Install Python***
+***1.) Install Python***
 
 https://phoenixnap.com/kb/how-to-install-python-3-windows
 
 <br>
 
-***Clone / Downlaod this repo to you PC or VPS***
+***2.) Clone / Downlaod this repo to you PC or VPS***
 
 <br>
 
@@ -18,13 +18,29 @@ https://phoenixnap.com/kb/how-to-install-python-3-windows
 
 <br>
 
-***Edit Setings.json, Updating with your wallet & private key***
+***3.) Edit Setings.json, Updating with your wallet & private key***
 
-*private keys are used to call the smart contract only to solve the hash/mine. We are open source so others can verify the saftey of the code.*
+*****Private keys are used to call the smart contract only to solve the hash/mine. We are open source so others can verify the saftey of the code.*
 
 <br>
 
-**Run solo_miner.py**
+***4.) Connect to Kovan Optimism & Get Testnet ETH***
+
+<br>
+https://kovan-optimistic.etherscan.io/
+<br>
+
+![image](https://user-images.githubusercontent.com/106699728/171667713-3f4cf287-6e19-4ab1-b01b-cfb163152c7d.png)
+
+<br>
+*Get testnet ETH here*
+
+https://faucet.paradigm.xyz/
+
+<br>
+
+
+**5.) Run solo_miner.py**
 
 <br>
 
