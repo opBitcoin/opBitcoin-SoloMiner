@@ -13,16 +13,24 @@ https://kovan-optimistic.etherscan.io/
 ![image](https://user-images.githubusercontent.com/106699728/171667713-3f4cf287-6e19-4ab1-b01b-cfb163152c7d.png)
 
 <br>
-*Get testnet ETH here*
+
+
+**2.) Get Kovan Optimism testnet ETH here**
 
 https://faucet.paradigm.xyz/
 
 <br>
 
 
-**2.) Download the latest miner release**
+**3.) Download the latest miner release**
 
 https://github.com/opBitcoin/opBitcoin-SoloMiner/releases
+
+<br>
+
+**4.) Unzip and edit settings.json with your wallet & private keys**
+
+<br>
 
 **5.) Run solo_miner.exe**
 
