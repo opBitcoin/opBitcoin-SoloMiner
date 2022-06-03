@@ -39,3 +39,10 @@ https://github.com/opBitcoin/opBitcoin-SoloMiner/releases
 ![image](https://user-images.githubusercontent.com/106699728/171666876-9354ab9a-0d89-4376-a1fe-4bad11427fb9.png)
 
 <br>
+
+
+------------------------
+
+**You can view on chain actvity here:**
+
+https://kovan-optimistic.etherscan.io/token/0x3dA90C212422D9e41D9edB920FF58e7411177ab3
